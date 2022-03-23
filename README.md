@@ -17,6 +17,6 @@ Application allows to manage the second-hand car fleet. Fleet is divided into tw
 10. `BuyPassengerCar.java`, `BuyTruck.java` - panels responsible for presenting the fleet
 11. `UI.java` - class responsible for setting up whole GUI 
 ## Class diagram
-![Used Car DealerSystem UML Diagram](https://github.com/mariakax3/UsedCarDealer/blob/main/UsedCarDealer.jpg?raw=true)
+![Used Car Dealer System UML Diagram](https://github.com/mariakax3/UsedCarDealer/blob/master/UsedCarDealer.jpg?raw=true)
 ## How the app could look
 Due to limited time and main goal of the project, which was to get to know Java and Java Swing, the application is not as complex as it could be. There is no action after reserving car. There is potential to develop it by adding e.g. the form for the reserving person's data or introducing version for an admin - authorised by login and password - and for a client.
